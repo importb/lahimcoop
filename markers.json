@@ -1,0 +1,527 @@
+[
+  {
+    "n": "Coop Vastemõisa",
+    "lat": 58.4421201,
+    "lng": 25.4410772
+  },
+  {
+    "n": "Coop Pae Konsum",
+    "lat": 58.7430484,
+    "lng": 26.3749986
+  },
+  {
+    "n": "Coop Tõrva Konsum",
+    "lat": 58.0031487,
+    "lng": 25.9232638
+  },
+  {
+    "n": "Coop Tooma Konsum",
+    "lat": 58.2620993,
+    "lng": 22.4849903
+  },
+  {
+    "n": "Karete Coop Konsum",
+    "lat": 58.3499285,
+    "lng": 26.7238951
+  },
+  {
+    "n": "Coop Tõrvik Konsum",
+    "lat": 57.9947888,
+    "lng": 25.9364064
+  },
+  {
+    "n": "Coop Mustjala",
+    "lat": 58.462026,
+    "lng": 22.2342039
+  },
+  {
+    "n": "Coop Kauplus Tarve",
+    "lat": 58.577136,
+    "lng": 26.2906781
+  },
+  {
+    "n": "Coop Jaama kauplus",
+    "lat": 58.2252308,
+    "lng": 26.4202282
+  },
+  {
+    "n": "Coop Ruusmäe kauplus",
+    "lat": 57.6352251,
+    "lng": 27.0887099
+  },
+  {
+    "n": "Coop Kärla kauplus",
+    "lat": 58.3308717,
+    "lng": 22.2556776
+  },
+  {
+    "n": "Coop Saverna Konsum",
+    "lat": 58.066914,
+    "lng": 26.7308413
+  },
+  {
+    "n": "Coop Kesklinna Konsum",
+    "lat": 57.8467781,
+    "lng": 26.9992768
+  },
+  {
+    "n": "Coop Kose kauplus",
+    "lat": 57.8160432,
+    "lng": 27.0301134
+  },
+  {
+    "n": "Coop Port Artur Konsum",
+    "lat": 58.3875623,
+    "lng": 24.5043581
+  },
+  {
+    "n": "Coop Raikküla kauplus",
+    "lat": 58.9358413,
+    "lng": 24.7474747
+  },
+  {
+    "n": "Sõpruse Konsum",
+    "lat": 59.3984949,
+    "lng": 24.6826357
+  },
+  {
+    "n": "Coop Halliste kauplus",
+    "lat": 58.1642286,
+    "lng": 25.4391427
+  },
+  {
+    "n": "Coop Mehikoorma kauplus",
+    "lat": 58.235545,
+    "lng": 27.4196777
+  },
+  {
+    "n": "Coop Haanja kauplus",
+    "lat": 57.7207531,
+    "lng": 27.0514201
+  },
+  {
+    "n": "Coop Lasva kauplus",
+    "lat": 57.8633866,
+    "lng": 27.1768584
+  },
+  {
+    "n": "Coop Mustakivi Konsum",
+    "lat": 59.4421676,
+    "lng": 24.8736492
+  },
+  {
+    "n": "Coop Ala kauplus",
+    "lat": 58.0099708,
+    "lng": 25.701943
+  },
+  {
+    "n": "Coop Laekvere kauplus",
+    "lat": 59.0679778,
+    "lng": 26.55882
+  },
+  {
+    "n": "Coop Hummuli kauplus",
+    "lat": 57.906311,
+    "lng": 26.0545562
+  },
+  {
+    "n": "Coop Riidaja kauplus",
+    "lat": 58.0964432,
+    "lng": 25.8952223
+  },
+  {
+    "n": "Coop Voore kauplus",
+    "lat": 58.7184376,
+    "lng": 26.7484553
+  },
+  {
+    "n": "Coop Koluvere kauplus",
+    "lat": 58.9045037,
+    "lng": 24.1023141
+  },
+  {
+    "n": "Coop Kamara kauplus",
+    "lat": 58.12157,
+    "lng": 25.1923583
+  },
+  {
+    "n": "Coop Haapsalu Kaubamaja Konsum",
+    "lat": 58.9402924,
+    "lng": 23.5422211
+  },
+  {
+    "n": "Coop Parila kauplus",
+    "lat": 58.868267,
+    "lng": 23.6226612
+  },
+  {
+    "n": "Coop Sadala kauplus",
+    "lat": 58.8622243,
+    "lng": 26.6008656
+  },
+  {
+    "n": "Coop Vana-Vigala kauplus",
+    "lat": 58.780818,
+    "lng": 24.2506558
+  },
+  {
+    "n": "Coop Kääpa kauplus",
+    "lat": 58.6991728,
+    "lng": 26.8489555
+  },
+  {
+    "n": "Märjamaa Coopi Apteek",
+    "lat": 58.904565,
+    "lng": 24.425701
+  },
+  {
+    "n": "Raadimõisa Coopi Apteek",
+    "lat": 58.4026824,
+    "lng": 26.7411286
+  },
+  {
+    "n": "Coop Lõpe kauplus",
+    "lat": 58.5698783,
+    "lng": 23.9879578
+  },
+  {
+    "n": "Coopi toidukapp",
+    "lat": 59.3979778,
+    "lng": 24.6381835
+  },
+  {
+    "n": "Coop Narva-Jõesuu Konsum",
+    "lat": 59.46325,
+    "lng": 28.0430692
+  },
+  {
+    "n": "Narva-Jõesuu Coopi Apteek",
+    "lat": 59.4631012,
+    "lng": 28.0431893
+  },
+  {
+    "n": "Coop Väimela kauplus",
+    "lat": 57.8916991,
+    "lng": 27.0106536
+  },
+  {
+    "n": "Coop Ämbra kauplus",
+    "lat": 58.9425034,
+    "lng": 25.8413488
+  },
+  {
+    "n": "Coop Parksepa kauplus",
+    "lat": 57.9075419,
+    "lng": 26.9847573
+  },
+  {
+    "n": "Coop Kergu kauplus",
+    "lat": 58.6675201,
+    "lng": 24.7546429
+  },
+  {
+    "n": "Coop Mikitamäe kauplus",
+    "lat": 58.0055578,
+    "lng": 27.5422491
+  },
+  {
+    "n": "Coop Jõgeva Konsum",
+    "lat": 58.7466588,
+    "lng": 26.3965132
+  },
+  {
+    "n": "Coop Selja kauplus",
+    "lat": 58.516621,
+    "lng": 24.8171353
+  },
+  {
+    "n": "Linnamäe Coop Konsum",
+    "lat": 59.4492145,
+    "lng": 24.863101
+  },
+  {
+    "n": "Saku Coop Ehituskeskuse pakiautomaat",
+    "lat": 59.3020336,
+    "lng": 24.6694621
+  },
+  {
+    "n": "Coop Koidula kauplus",
+    "lat": 57.7974951,
+    "lng": 27.3269242
+  },
+  {
+    "n": "Coop Iisaku kauplus",
+    "lat": 59.003626,
+    "lng": 26.5854692
+  },
+  {
+    "n": "Coop Läänemere Konsum",
+    "lat": 59.3680488,
+    "lng": 24.7120888
+  },
+  {
+    "n": "Haabneeme Konsum",
+    "lat": 59.512975,
+    "lng": 24.820509
+  },
+  {
+    "n": "Rohuneeme Konsum",
+    "lat": 59.550614,
+    "lng": 24.795787
+  },
+  {
+    "n": "Miiduranna Maksimarket",
+    "lat": 59.497001,
+    "lng": 24.829221
+  },
+  {
+    "n": "Paldiski Coop",
+    "lat": 59.352450,
+    "lng": 24.056849
+  },
+  {
+    "n": "COOP Juuru kauplus",
+    "lat": 59.0583092,
+    "lng": 24.9631662
+   },
+   {
+    "n": "COOP Emmaste kauplus",
+    "lat": 58.7050354,
+    "lng": 22.5966036
+   },
+   {
+    "n": "COOP L\u00e4hte kauplus",
+    "lat": 58.4926481,
+    "lng": 26.6823568
+   },
+   {
+    "n": "COOP Kohila Konsum",
+    "lat": 59.1673096,
+    "lng": 24.7496234
+   },
+   {
+    "n": "COOP Minimarket",
+    "lat": 59.4340351,
+    "lng": 24.7525492
+   },
+   {
+    "n": "Paide Maksimarket",
+    "lat": 58.8867163,
+    "lng": 25.5404742
+   },
+   {
+    "n": "Kõrgessaare kauplus",
+    "lat": 58.982023,
+    "lng": 22.471628
+   },
+   {
+    "n": "Hiiu konsum",
+    "lat": 58.998332,
+    "lng": 22.746947
+   },
+   {
+    "n": "Tormi konsum",
+    "lat": 58.990214,
+    "lng": 22.754740
+   },
+   {
+    "n": "Nurste kauplus",
+    "lat": 58.786167,
+    "lng": 22.493247
+   },
+   {
+    "n": "Käina Konsum",
+    "lat": 58.831297,
+    "lng": 22.775260
+   },
+   {
+    "n": "Suuremõisa kauplus",
+    "lat": 58.873012,
+    "lng": 22.943169
+   },
+   {
+    "n": "Hellamaa kauplus",
+    "lat": 58.606741,
+    "lng": 23.310725
+   },
+   {
+    "n": "Liiva konsum",
+    "lat": 58.605952,
+    "lng": 23.231937
+   },
+   {
+    "n": "Orissaare konsum",
+    "lat": 58.558955,
+    "lng": 23.082657
+   },
+   {
+    "n": "Saikla kauplus",
+    "lat": 58.534774,
+    "lng": 23.011127
+   },
+   {
+    "n": "Tornimäe kauplus",
+    "lat": 58.504170,
+    "lng": 23.118152
+   },
+   {
+    "n": "Tagavere kauplus",
+    "lat": 58.515753,
+    "lng": 22.889121
+   },
+   {
+    "n": "Leisi kauplus",
+    "lat": 58.571828,
+    "lng": 22.681911
+   },
+   {
+    "n": "Valjala kauplus",
+    "lat": 58.409328,
+    "lng": 22.791163
+   },
+   {
+    "n": "Coop Pärsama",
+    "lat": 58.504564,
+    "lng": 22.747436
+   },
+   {
+    "n": "Pihtla kauplus",
+    "lat": 58.302065,
+    "lng": 22.711130
+   },
+   {
+    "n": "Aste kauplus",
+    "lat": 58.345060,
+    "lng": 22.444074
+   },
+   {
+    "n": "Eikla kauplus",
+    "lat": 58.421477,
+    "lng": 22.522036
+   },
+   {
+    "n": "Salme Konsum",
+    "lat": 58.164507,
+    "lng": 22.250317
+   },
+   {
+    "n": "Lümanda kauplus",
+    "lat": 58.286884,
+    "lng": 22.024688
+   },
+   {
+    "n": "Kihelkonna kauplus",
+    "lat": 58.359552,
+    "lng": 22.037799
+   },
+   {
+    "n": "Nasva kauplus",
+    "lat": 58.228373,
+    "lng": 22.384720
+   },
+   {
+    "n": "Kaubaait kauplus",
+    "lat": 58.263326,
+    "lng": 22.491716
+   },
+   {
+    "n": "Kummeli konsum",
+    "lat": 58.254594,
+    "lng": 22.519341
+   },
+   {
+    "n": "Roomassaare kauplus",
+    "lat": 58.244489,
+    "lng": 22.489445
+   },
+   {
+    "n": "Ranna kauplus",
+    "lat": 58.248498,
+    "lng": 22.472736
+   },
+   {
+    "n": "Saaremaa kaubamaja",
+    "lat": 58.252301,
+    "lng": 22.486367
+   },
+   {
+    "n": "Narva Maksimarket",
+    "lat": 59.379089,
+    "lng": 28.177409
+   },
+   {
+    "n": "Sillamäe Maksimarket",
+    "lat": 59.392281,
+    "lng": 27.777566
+   },
+   {
+    "n": "Jõhvi Tööriistamarket",
+    "lat": 59.362483,
+    "lng": 27.452148
+   },
+   {
+    "n": "Jõhvi Konsum",
+    "lat": 59.359218,
+    "lng": 27.428862
+   },
+   {
+    "n": "Jõhvi Maksimarket",
+    "lat": 59.353007,
+    "lng": 27.420450
+   },
+   {
+    "n": "Kohtla-Järve Konsum",
+    "lat": 59.369617,
+    "lng": 27.294484
+   },
+   {
+    "n": "Püssi kauplus / Ehituskeskus",
+    "lat": 59.361733,
+    "lng": 27.038159
+   },
+   {
+    "n": "Kiviõli Konsum",
+    "lat": 59.356246,
+    "lng": 26.974564
+   },
+   {
+    "n": "Kunda Konsum / Ehituskeskus",
+    "lat": 59.502724,
+    "lng": 26.503364
+   },
+   {
+    "n": "Sõmeru kauplus",
+    "lat": 59.361187,
+    "lng": 26.433503
+   },
+   {
+    "n": "Rakvere Tööriistamarket",
+    "lat": 59.354404,
+    "lng": 26.383691
+   },
+   {
+    "n": "Kadrina Konsum",
+    "lat": 59.343556,
+    "lng": 26.130291
+   },
+   {
+    "n": "Loksa Konsum",
+    "lat": 59.579563,
+    "lng": 25.723875
+   },
+   {
+    "n": "Kuusalu Konsum",
+    "lat": 59.445301,
+    "lng": 25.441710
+   },
+   {
+    "n": "Tapa Konsum",
+    "lat": 59.264989,
+    "lng": 25.967075
+   },
+   {
+    "n": "Väike-Maarja Konsum / Ehituskeskus",
+    "lat": 59.128434,
+    "lng": 26.252266
+   }
+]

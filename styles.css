@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #d3d3d3;
+}
+
+#map-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+#map-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: grab;
+}
